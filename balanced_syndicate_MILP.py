@@ -7,20 +7,21 @@ Assign students into balanced syndicate groups to maximise diversity
 while maintaining fairness by gender and quantitative background.
 
 Input:
- - balanced_syndicate_dataset.xlsx
+ - balanced_syndicate_dataset.csv
 Outputs:
  - balanced_groups_output.csv
  - balanced_groups_summary.xlsx
 """
 
+!pip install pulp
 import pandas as pd
 import pulp
 
 # ------------------------------------------------------------
 # 1. Load dataset
 # ------------------------------------------------------------
-file_name = "balanced_syndicate_dataset.xlsx"
-df = pd.read_excel(file_name)
+file_name = "balanced_syndicate_dataset.csv"
+df = pd.read_csv(file_name)
 
 # Expected columns:
 # StudentID | Nationality | Cultural Background | Gender | Quantitative Background
