@@ -1,0 +1,46 @@
+StudentID,Nationality,Cultural Background,Gender,Quantitative Background
+101.0,Saudi Arabian,Middle East,Female,6.7
+102.0,Saudi Arabian,Middle East,Male,4.0
+103.0,Romanian,Eastern Europe,Female,5.9
+104.0,British,British,Female,8.6
+105.0,British,British,Male,5.0
+106.0,Chinese,East Asia,Male,7.0
+107.0,British,British,Male,8.4
+108.0,Chinese,East Asia,Female,8.7
+109.0,British,British,Male,7.8
+110.0,British,British,Male,7.2
+111.0,Chinese,East Asia,Female,7.0
+112.0,Chinese,East Asia,Male,7.7
+113.0,Spanish,Western Europe,Female,7.0
+114.0,Chinese,East Asia,Male,8.0
+115.0,Saudi Arabian,Middle East,Male,8.3
+116.0,German,Western Europe,Male,8.7
+117.0,British,British,Female,8.5
+118.0,Lithuanian,Eastern Europe,Male,9.1
+119.0,Russian,Eastern Europe,Male,7.6
+120.0,Chinese,East Asia,Female,7.2
+121.0,Chinese,East Asia,Male,5.2
+122.0,Mongolian,East Asia,Male,4.2
+123.0,Chinese,East Asia,Female,5.5
+124.0,British,British,Female,8.6
+125.0,Indian,South Asia,Male,8.3
+126.0,Vietnamise,East Asia,Male,7.4
+127.0,Iranian,Middle East,Female,7.3
+128.0,Turkish,Middle East,Female,4.1
+129.0,Indian,South Asia,Female,4.6
+130.0,Vietnamise,East Asia,Female,7.9
+131.0,Vietnamise,East Asia,Male,8.0
+132.0,Chinese,East Asia,Female,8.7
+133.0,Chinese,East Asia,Male,4.9
+134.0,Indian,South Asia,Female,5.2
+135.0,Chinese,East Asia,Female,5.6
+136.0,British,British,Male,9.2
+137.0,Bulgarian,Eastern Europe,Female,8.8
+138.0,Japanese,East Asia,Male,4.9
+139.0,Russian,Eastern Europe,Male,7.7
+140.0,British,British,Female,4.7
+141.0,Chinese,East Asia,Female,7.5
+142.0,Chinese,East Asia,Female,7.6
+143.0,Chinese,East Asia,Female,7.9
+144.0,Chinese,East Asia,Female,5.7
+145.0,Russian,Eastern Europe,Female,6.0
